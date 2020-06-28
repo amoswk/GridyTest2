@@ -15,6 +15,7 @@
 		B0E492E9249FB2F500C9F3D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0E492E7249FB2F500C9F3D6 /* LaunchScreen.storyboard */; };
 		B0E492F4249FB2F500C9F3D6 /* GridyTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0E492F3249FB2F500C9F3D6 /* GridyTestTests.swift */; };
 		B0E492FF249FB2F500C9F3D6 /* GridyTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0E492FE249FB2F500C9F3D6 /* GridyTestUITests.swift */; };
+		B0E4930D24A9157700C9F3D6 /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0E4930C24A9157700C9F3D6 /* GridView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B0E492FA249FB2F500C9F3D6 /* GridyTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GridyTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0E492FE249FB2F500C9F3D6 /* GridyTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridyTestUITests.swift; sourceTree = "<group>"; };
 		B0E49300249FB2F500C9F3D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B0E4930C24A9157700C9F3D6 /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B0E492DE249FB2F300C9F3D6 /* SceneDelegate.swift */,
 				B0E492E0249FB2F300C9F3D6 /* ViewController.swift */,
 				B0E492E2249FB2F300C9F3D6 /* Main.storyboard */,
+				B0E4930C24A9157700C9F3D6 /* GridView.swift */,
 				B0E492E5249FB2F500C9F3D6 /* Assets.xcassets */,
 				B0E492E7249FB2F500C9F3D6 /* LaunchScreen.storyboard */,
 				B0E492EA249FB2F500C9F3D6 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				B0E492E1249FB2F300C9F3D6 /* ViewController.swift in Sources */,
 				B0E492DD249FB2F300C9F3D6 /* AppDelegate.swift in Sources */,
+				B0E4930D24A9157700C9F3D6 /* GridView.swift in Sources */,
 				B0E492DF249FB2F300C9F3D6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
